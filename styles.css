@@ -632,7 +632,7 @@ label {
 
 .history-panel,
 .calendar-panel,
-history-edit-panel {
+.history-edit-panel {
   grid-column: span 2;
 }
 
